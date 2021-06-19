@@ -3,7 +3,7 @@
 
                                                             Hi there 👋, I am Adinath! 😁
                                                             
-Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Institute of Technology majoring in ELectronics and TelecommunicationBesides programming, I have an immense interest in music.
+Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Institute of Technology majoring in Electronics and Telecommunication. Besides programming, I have an immense interest in music.
 
 💬 Brainstorm with me over tech, algorithms, career, and music
 
