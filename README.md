@@ -1,8 +1,14 @@
+<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+
 Hi there 👋, I am Adinath! 😁
 Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Institute of Technology majoring in ELectronics and TelecommunicationBesides programming, I have an immense interest in music.
 
 💬 Brainstorm with me over tech, algorithms, career, and music
+
 📫 How to reach me: joshiadinath0@gmail.com
+
 😄 Pronouns: Programmer/Him/He
 
 
