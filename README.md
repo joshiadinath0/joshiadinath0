@@ -18,4 +18,5 @@ Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Ins
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Nodejs](https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg)&nbsp;&nbsp;
+![Nodejs](https://img.shields.io/badge/url=https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg-black?&style=social)&nbsp;&nbsp;
+
