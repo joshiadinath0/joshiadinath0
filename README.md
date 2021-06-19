@@ -1,7 +1,10 @@
 <a href='https://www.linkedin.com/in/adinathjoshi/'><img align='center' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/Adijazzy08/'><img align='center' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
-                                                            Hi there 👋, I am Adinath! 😁
+                                                          <h3 align="center">
+  Welcome to Adinath Joshi's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
                                                             
 Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Institute of Technology majoring in Electronics and Telecommunication. Besides programming, I have an immense interest in music.
 
