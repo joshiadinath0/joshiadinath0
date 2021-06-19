@@ -12,7 +12,7 @@ Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Ins
 😄 Pronouns: Programmer/Him/He
 
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="35px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="35px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a><h1>Node<h1>
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
