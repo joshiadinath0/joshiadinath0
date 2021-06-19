@@ -11,6 +11,8 @@ Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Ins
 
 😄 Pronouns: Programmer/Him/He
 
+😐 I have a love/hate relationship with Programming
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
