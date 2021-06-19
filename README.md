@@ -26,7 +26,7 @@ Hello, my name is Adinath Joshi and I am a undnergrad student at Ramrao Adik Ins
 </p>
 <br>
 You can contact me at:
-<br>
+<h1><h1>
 
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Adinath on LinkedIn"/>](https://www.linkedin.com/in/adinathjoshi/)
